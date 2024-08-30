@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "149807974993",
+    "firebase_url": "https://govi-aswanna-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "govi-aswanna",
+    "storage_bucket": "govi-aswanna.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149807974993:android:c703e95b5d6b4812020670",
+        "android_client_info": {
+          "package_name": "com.example.govi_aswanna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149807974993-au1afh957vcqhgfaupnccl22bdaqhl7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBNrHa-jglmqIvUrOmSI_Cc3KH2bcuRac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149807974993-au1afh957vcqhgfaupnccl22bdaqhl7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149807974993:android:8bdf4df9e1948e33020670",
+        "android_client_info": {
+          "package_name": "com.example.govi_aswanna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149807974993-au1afh957vcqhgfaupnccl22bdaqhl7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBNrHa-jglmqIvUrOmSI_Cc3KH2bcuRac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149807974993-au1afh957vcqhgfaupnccl22bdaqhl7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149807974993:android:7a60fca94ca5f64c020670",
+        "android_client_info": {
+          "package_name": "com.example.govi_aswanna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149807974993-au1afh957vcqhgfaupnccl22bdaqhl7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBNrHa-jglmqIvUrOmSI_Cc3KH2bcuRac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149807974993-au1afh957vcqhgfaupnccl22bdaqhl7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

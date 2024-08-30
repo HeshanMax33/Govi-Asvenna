@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //Keshan
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#1fd</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="signupColor">#066e8a</color>
+
+    <color name="item_bg">#EFEBEB</color>
+
+    <color name="text_place_holder_color">#4D000000</color>
+
+    <color name="main_green">#1fd655</color>
+    <color name="main_red">#DF4747</color>
+
+    //Heshan
+
+
+    <color name="AppGreen">#FF05FF0F</color>
+    <color name="sale_color">#1fd655</color>
+
+
+
+
+</resources>
